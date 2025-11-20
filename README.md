@@ -22,7 +22,7 @@ currency-converter/
 │── index.html
 │── style.css
 │── script.js
-│── countryList.js   (if used)
+│── countryList.js
 │── README.md
 
 🛠️ Technologies Used
